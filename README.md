@@ -8,7 +8,7 @@ To run this project, you need to have the following installed:
 - [Ollama](https://ollama.com) 
 - `mistral:7b-instruct-q4_0` LLM downloaded from Ollama
 
-Alternatively, you can use an OpenAI LLM by replacing the code at lines 19 and 110 in the source files.
+Alternatively, you can use an OpenAI LLM by replacing the code at lines 19 and 110 in Main.py file.
 
 ## Installation
 
